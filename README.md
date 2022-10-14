@@ -1,4 +1,4 @@
-## ANPI X VICENZO 
+## SIER.co | React Native version
   <details>
   <summary><h3>Portuguese<h3/></summary>
 
